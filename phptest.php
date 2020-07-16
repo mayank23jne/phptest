@@ -1,5 +1,5 @@
 <?php
-$monthlyRent = 550;
+$monthlyRent = 275;
 //monthly payments
 $TomPayments = array(104, 143, 432, 123, 412);
 $SuePayments = array(46, 23, 52, 55, 798);
